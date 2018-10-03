@@ -19,7 +19,7 @@ echo "
         Youtube     : D3N15H ID
         Instagram   : @nisss_111
         My Team     : Explosion Squad Cyber 
-     Penggunaannya  : Awali Dengan Angka [62] 
+     Penggunaannya  : Bisa Menggunakan [08/62]
 ###########################################################\n";
 echo "Nomor\nInput : ";
 $nomor = trim(fgets(STDIN));
